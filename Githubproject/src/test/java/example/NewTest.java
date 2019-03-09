@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;		
 public class NewTest {		
 	    private WebDriver driver;		
-		@Test				
+					
 		
 		@Test				
 		public void testEasy() {	
